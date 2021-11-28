@@ -13,6 +13,41 @@ On successful completion of this module, students will be able to:
 3.	Identify and design suitable data analysis strategies that consider data types, data distribution constraints, strength, benefits and limitations of statistical and modelling tools and environmental dynamics.
 4.	Understand the limitation of available data and data analysis products. Understand sources of errors and demonstrate ability to comprehensively characterize uncertainties and interpret results in the context of these uncertainties, including measurement errors, environmental uncertainties as well as errors stemming from the analytical procedure itself (e.g. calibration of analysis using synthetic data/models). 
 
+## An introduction to rivers, landscapes and fluvial data - Mon 29th Nov 
+
+## Contents: 
+
+Rivers networks are extremely important parts of the natural and human environment. This module will introduce a number of foundational concepts that will allow you to understand the context of much of the fluvial data you may come across. We will be drawing from geomorphology, geochemistry and hydrology. We will also discuss where data about drainage networks comes from and how it can be accessed. You will gain first hand experience of generating drainage networks from topographic data in the practical. 
+
+Specific learning goals are: 
+1. Understanding the basic scaling relationships underlying drainage networks. 
+2. Developing a quantitative framework for how rivers modify landscapes on long-timescales. 
+3. To know how to generate a drainage network from topographic data including limitations
+4. Understand the range of materials transported in rivers and associated data
+5. Consider the importance of drainage network topology in analysing fluvial data
+
+## Further reading: 
+
+Specific sources given as citations within the slides and more general reading is in the final slide.
+
+
+## Lecture schedule
+
+|Date                      | Lecture                             |Instructor |
+|--------------------------|-------------------------------------|------------|
+|2021-11-29 9:00-10:00 Mon | Introduction to Rivers & Landscapes     | Alex Lipp  |
+|2021-12-02 14:00-15:00 Mon | Data from within rivers    | Alex Lipp |     
+
+## Practical schedule
+|Date                      | Lecture                             |Instructor |
+|--------------------------|-------------------------------------|------------|
+|2021-11-29 10:00-12:00 Mon | Extracting drainage from topography      | Alex Lipp  |
+|2021-12-02 15:00-17:00 Mon | Tracking pollution through drainage networks   | Alex Lipp |     
+
+
+
+***
+
 
 ## Seismic reflection imaging - Tue 30th Nov and Thur 2nd Dec
 
