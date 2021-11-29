@@ -35,7 +35,7 @@ Specific sources given as citations within the slides and more general reading i
 
 |Date                      | Lecture                             |Instructor |
 |--------------------------|-------------------------------------|------------|
-|2021-11-29 9:00-10:00 Mon | [Introduction to Rivers & Landscapes](https://imperiallondon-my.sharepoint.com/:p:/g/personal/agl18_ic_ac_uk/EaYaQsOsqYZDt1Ua-52HhkgBVLi-UCfRiHXo12m7CyLYMA?e=UA1QcC)     | Alex Lipp  |
+|2021-11-29 9:00-10:00 Mon | [Introduction to Rivers & Landscapes](https://imperiallondon-my.sharepoint.com/:p:/g/personal/agl18_ic_ac_uk/EcLL_IwcNpZKkIU7aox-nYcBRkHECInGFQzRRCyE9LwlZw?e=EbQ2h9)     | Alex Lipp  |
 |2021-12-02 14:00-15:00 Mon | [Data from within rivers](https://github.com/ese-msc-2021/environmental_data_week3/blob/main/rivers_lecture_pt2.pptx)    | Alex Lipp |     
 
 ## Practical schedule
