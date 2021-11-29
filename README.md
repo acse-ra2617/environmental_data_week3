@@ -33,6 +33,8 @@ Specific sources given as citations within the slides and more general reading i
 
 ## Lecture schedule
 
+**The slides for the Lectures are available by following the links below**
+
 |Date                      | Lecture                             |Instructor |
 |--------------------------|-------------------------------------|------------|
 |2021-11-29 9:00-10:00 Mon | [Introduction to Rivers & Landscapes](https://imperiallondon-my.sharepoint.com/:p:/g/personal/agl18_ic_ac_uk/EcLL_IwcNpZKkIU7aox-nYcBRkHECInGFQzRRCyE9LwlZw?e=EbQ2h9)     | Alex Lipp  |
