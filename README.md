@@ -113,7 +113,7 @@ Make sure to activate the environment after and run the notebooks from within th
 ## Assessment exercises
 Assessment will be 100% by coursework. It is all open book. 
 The assessment will involve 33% of the question on Landscapes and Drainage and 67% on Seismic reflection imaging
-Exercises will be distributed and submitted via GitHub Classroom on Friday. SEG-Y data will be downloaded from a File Exchange link to be sent at 1pm on Friday.
+Exercises will be distributed and submitted via GitHub Classroom on Friday. SEG-Y data will be downloaded from a File Exchange link to be sent at 1pm on Friday. Data for the landscapes assessment will be provided with the assessment notebook.
 
 |Release Date         | Due Date            | Topic                             |
 |---------------------|---------------------|-----------------------------------|
