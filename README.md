@@ -93,7 +93,22 @@ Links to other useful articles and websites provided in the lecture slides
 |2021-11-30 14:00-17:00 Tue | 1: Synthetic seismic models, 2: NMO corrections     | Raul Adriaensen       | Rebecca Bell    |
 |2021-12-02 14:00-17:00 Thur | 3: Viewing SEG-Y data, 4: Seismic attributes     | Raul Adriaensen      | Rebecca Bell   |
 
+## Installing required python libraries
 
+For facilitated setup it is recommended to create a virtual environment and install the required python packages. 
+For anaconda environments an environemnt.yml file is provided, for setup run:
+
+    conda env create -f environment.yml
+
+From within the base folder of the repository. 
+
+For other solutions a requirements file is provided, can be setup by running:
+
+    pip install -r requirements.txt
+
+From the base directory.
+
+Make sure to activate the environment after and run the notebooks from within this virtual environment! Lastly, make sure you have placed the memory intensive datafiles received via FileExchange under the data folder provided.
 
 ## Assessment exercises
 Assessment will be 100% by coursework. It is all open book. 
