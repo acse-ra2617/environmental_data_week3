@@ -1,0 +1,16 @@
+name: seismic_practical
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - segyio
+  - scipy
+  - pip
+  - scikit-image
+  - matplotlib
+  - opencv
+  - pip:
+    - bruges
+    - mayavi
+    - PyQt5

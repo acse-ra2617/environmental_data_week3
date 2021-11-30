@@ -1,0 +1,9 @@
+numpy
+segyio
+bruges
+mayavi
+PyQt5
+scipy
+scikit-image
+matplotlib
+opencv
