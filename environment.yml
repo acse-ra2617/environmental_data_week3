@@ -10,6 +10,7 @@ dependencies:
   - scikit-image
   - matplotlib
   - opencv
+  - pandas
   - pip:
     - bruges
     - mayavi
